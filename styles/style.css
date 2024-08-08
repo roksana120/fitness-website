@@ -1,0 +1,64 @@
+.open-sens{
+
+}
+
+nav{
+    display: flex;
+    align-items: center;
+justify-content: space-between;
+margin: 20px 100px;
+}
+.colour-tittle{
+    color:rgb(235, 55, 55)
+    
+
+}
+nav ul li {
+    list-style: none;
+    margin-right: 50px;
+}
+nav li a {
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(157, 149, 149);
+}
+nav ul{
+    display: flex;
+}
+.btn-primary{
+   background-color: coral; 
+   font-weight: 700px;
+   color: white;
+   padding: 10px 30px;
+   border-radius: 5px;
+   font-size: 10px;
+   align-items: center;
+   border: none;
+}
+.banner-description{
+   color:rgb(157, 149, 149); 
+}
+.banner{
+    display: flex;
+}
+.banner-profilt-pic{
+    width: 580px;
+
+}
+.Habits{
+max-width: 850px;
+margin: 0 auto;
+}
+.Four-colum-pic{
+    display: flex;
+    justify-content:center ;
+    flex-wrap: wrap;
+    margin-top: 100px;
+}
+.picture{
+    width: 290px;
+    
+}
+.pic-2{
+    image-resolution: circle;
+}
